@@ -1,3 +1,3 @@
 # Power-BI
 Respositório com exemplos de dashboards para análise de dados. Construído com Power BI.</br>
-<b>Obs.</b>: Os dados são inteiramente fictícios.
+Obs.: Os dados são inteiramente fictícios.
