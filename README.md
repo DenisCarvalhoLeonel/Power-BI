@@ -1,2 +1,3 @@
 # Power-BI
-Este repositório é referente à práticas do PowerBI
+Respositório com exemplos de dashboards para análise de dados. Construído com Power BI. 
+Obs.: Os dados são inteiramente fictícios.
