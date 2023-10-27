@@ -1,2 +1,2 @@
 # Power-BI
-Este repositório é referente a práticas do Power BI
+Este repositório é referente à práticas do PowerBI
